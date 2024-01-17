@@ -3,7 +3,7 @@
   ini_set('display_startup_errors', 1); 
   error_reporting(E_ALL);
 
-  $servername = "192.168.1.104"; //IP del servidor ubuntu o localhost
+  $servername = "192.168.1.97"; //IP del servidor ubuntu o localhost
   $username = "admin";  
   $password = "12345";  
   $dbname = "estadistics";  
